@@ -4,7 +4,7 @@ Welcome to the Smart Plant Monitoring System repository! This project utilizes a
 
 ## Code Overview
 
-- **File:** `Smart_Plant_Monitoring.ino`
+- **File:** `Smart Irrigation & Plant Monitoring.ino.txt`
 
   This Arduino sketch reads temperature and humidity values from the DHT11 sensor, soil moisture from the analog sensor, and controls a light indicator. It communicates with the Blynk app for real-time monitoring and notifications.
 
